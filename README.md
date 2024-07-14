@@ -9,6 +9,17 @@ El programa permite acceder a diferentes divisas gracias al uso de un API. Graci
 * _[KEY](https://www.exchangerate-api.com/)_
 
 ### Programa 👾
-Menu principal.
+* _Menu principal_.
 
-![Menu principal](img/inicio.png)
+![](https://github.com/4l3xs/Challenge/blob/master/inicio.png)
+
+* _Conversor_.
+
+![](https://github.com/4l3xs/Challenge/blob/master/conversion.png)
+
+### Compilador 📽️
+
+* [Java JDK](https://www.oracle.com/br/java/technologies/downloads/)  : versión 17
+
+### Autor 🏷️
+* **[Oscar Alexis Tarazon Huerta](https://github.com/4l3xs)**
